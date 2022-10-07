@@ -9,9 +9,14 @@
 @import "./home/depoimento.css";
 /*Seguros*/
 @import "./seguros/seguros.css";
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
 /*Utilidades*/
 @import "./utilidades/tipografia.css";
 @import "./utilidades/componentes.css";
 @import "./utilidades/cores.css";
 /*Bicicletas*/
 @import "./bicicletas/bicicletas-lista.css";
+@import "./bicicletas/bicicletas.css";
+/*termos*/
+@import "./termos/termos.css";
